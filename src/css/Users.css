@@ -1,0 +1,26 @@
+body {
+    background-color:white;
+}
+
+
+
+.users-list {
+    margin: 10px 0 20px;
+}
+
+.div-user {
+    text-align: center;
+   
+}
+#table-users{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#buttonAdd{
+    margin-top: 20px;
+}
+
+.buttons {
+    margin-top: 5px;
+}
